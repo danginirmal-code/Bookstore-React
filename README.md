@@ -1,7 +1,7 @@
 
 
 
-Demo: https://youtu.be/1HY2QJaXlsk
+
 
 🚀 React + Django REST Framework
 
@@ -12,6 +12,7 @@ The project combines a responsive React UI with a powerful REST API, database ma
 🎥 Demo
 
 ▶️ Watch the project demo on YouTube
+https://youtu.be/1HY2QJaXlsk
 
 ✨ Features
 ⚛️ Modern React frontend
